@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>edu.hm.cs.fwp.cloud</groupId>
-    <version>0.8.0</version>
+    <version>1.0.0</version>
     <artifactId>cnj-docker-keycloak</artifactId>
     <packaging>pom</packaging>
     <description>Customized OpenID Connect Provider Keycloak</description>
